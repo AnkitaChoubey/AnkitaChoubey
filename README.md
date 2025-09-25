@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub!  
+# Welcome to my GitHub!  
 
 Hi, I'm *Ankita Choubey* — a data enthusiast who loves exploring numbers, building dashboards, and uncovering insights that tell a story.  
 I believe data is more than just rows and columns — it’s a way to make better decisions, solve problems, and create impact.  
