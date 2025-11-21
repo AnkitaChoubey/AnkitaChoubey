@@ -81,7 +81,7 @@ I believe *data is not just numbers — it's a language*, and I love translating
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaChoubey&label=Profile%20views&color=F75C7E&style=flat)
 
 ### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=AnkitaChoubey&theme=radical&margin-w=10&margin-h=10&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AnkitaChoubey&theme=radical&margin-w=10)
 
 ### 📅 Contribution Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaChoubey&theme=radical&hide_border=false)
